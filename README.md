@@ -10,7 +10,17 @@ Acccess the AWS TWAMP intant as per following steps
 3. Go to SERVICES-->COMPUTE--->EC2
 4. Under "Resources" click on "instances"
 5. Click on the INSTANT ID against name "TWAMP" ----> Connect---> Connect
-6. ls--->cd python
+6. Go to twamp directory
+
+   ```sh
+   ls
+   ```
+   
+   and then 
+   
+   ```sh
+   cd python
+   ```   
 
 
 ## Step 2: Run the command at AWS
