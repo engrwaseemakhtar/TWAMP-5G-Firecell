@@ -17,17 +17,17 @@ Acccess the AWS TWAMP intant as per following steps
 
 List the software and packages required to run the code in this repository, remember to use the private IP of AWS server for responder. For example:
 
-    ```sh
-    sudo pytho3 twampy.py responder 172.31.19.82:863
-    ```
+   ```sh
+   sudo python3 twampy.py responder 172.31.19.82:863
+   ```
 
 ## Step 3: Run the command at sender
 
 Run the following command.
 
-    ```sh
-    sudo pytho3 27runtwamp.py
-    ```
+   ```sh
+   sudo python3 27runtwamp.py
+   ```
 
 ## Step 4
 
