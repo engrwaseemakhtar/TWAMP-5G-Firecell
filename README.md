@@ -58,7 +58,7 @@ We welcome contributions from the community. To contribute:
 - Submit a pull request with a detailed description of your changes.
 
 ## Result
-
+![PDF and CDF](Results/latencies_20240628_122910.png)
 ![PDF and CDF](Results/inbound_20240627_173100_pdf.png)
 
 
